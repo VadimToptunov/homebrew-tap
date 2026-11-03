@@ -1,8 +1,8 @@
 class Kassios < Formula
   desc "Host-side tools for KassiOS: kassios-agent, kassios-mutants, kassios-lint"
   homepage "https://github.com/VadimToptunov/KassiOS"
-  url "https://github.com/VadimToptunov/KassiOS/releases/download/1.10.0/kassios-1.10.0-macos.zip"
-  sha256 "674b9427930ff6b1e3341df4baab6a09f3b6d535d2c0eba65db4a484c1f59749"
+  url "https://github.com/VadimToptunov/KassiOS/releases/download/1.10.1/kassios-1.10.1-macos.zip"
+  sha256 "ba8c148482d37c48243e28ad7173822600363bf88a143d7be63f365cb3198618"
   license "MIT"
 
   depends_on :macos
